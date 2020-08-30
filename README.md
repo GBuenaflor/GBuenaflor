@@ -1,4 +1,25 @@
-### Hi there 👋
+### 
+----------------------------------------------------------------------------------------------
+
+![alt text](https://github.com/GBuenaflor/01azure/blob/master/Picture2.png)
+
+----------------------------------------------------------------------------------------------
+
+Hi There!, I'm GB , I'm a Engineer, Sr.Architect / Developer and a person who lives in planet earth.
+
+----------------------------------------------------------------------------------------------
+
+####  Microsoft Azure Container Ecosystem - "nugget" series
+
+![Microsoft Azure Container Ecosystem - "nugget" series](https://github.com/GBuenaflor/01azure)
+
+
+####  Microsoft Azure Landing ZOne - "nugget" series (UNDER Construction)
+
+ 
+----------------------------------------------------------------------------------------------
+
+
 
 <!--
 **GBuenaflor/GBuenaflor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
