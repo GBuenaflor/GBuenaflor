@@ -1,6 +1,6 @@
 ### Hi There!, I'm GB, I'm an Electronics Engineer, Sr.Architect / Developer. 
 
-![alt text](https://github.com/GBuenaflor/01azure/blob/master/_includes/Picture2.png)
+![alt text](https://github.com/GBuenaflor/gbuenaflor.github.io/blob/master/_includes/Picture2.png)
 
 ---------------------------------------------------------------------------------------------- 
 
