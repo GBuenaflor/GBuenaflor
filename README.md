@@ -1,4 +1,4 @@
-##### Hi There!, I'm GB, I'm an Engineer, Sr.Architect / Developer. 
+### Hi There!, I'm GB, I'm an Engineer, Sr.Architect / Developer. 
 
 ![alt text](https://github.com/GBuenaflor/01azure/blob/master/Picture2.png)
 
