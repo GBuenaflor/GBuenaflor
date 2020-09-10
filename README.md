@@ -1,4 +1,4 @@
-### Hi There!, I'm GB, I'm an Electronics Engineer, Sr.Architect / Developer. 
+### Hi There!, I'm GB, I'm an Electronics Engineer, Developer, and now a Sr.Architect.
 
 ![alt text](https://github.com/GBuenaflor/gbuenaflor.github.io/blob/master/_includes/Picture2.png)
 
